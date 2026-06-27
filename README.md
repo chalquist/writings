@@ -11,7 +11,7 @@ Explore by topic:
 - **[Myth, Spirituality & Religion](./myth-spirituality/)** — Essays on mythology, spiritual inquiry, and religious studies
 - **[Terrapsychology & Ecology](./terrapsychology-ecology/)** — Research on the psyche-place relationship and ecological consciousness
 - **[Reimagining the USA](./reimagining-usa/)** — Explorations of American identity, culture, and potential futures
-- **[Glossaries](./glossaries/)** — Key terms and concepts
+- **[Glossaries Etc](./glossaries/)** — Key terms and concepts
 - **[Media & References](./media-references/)** — Links to videos, blog posts, and external resources
 
 ## About This Repository
