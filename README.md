@@ -7,7 +7,7 @@ A curated collection of Craig Chalquist's writings, essays, research, and media.
 Explore by topic:
 
 - **[Creative Cultural Change](./creative-cultural-change/)** — Articles and essays on cultural transformation through imagination and creativity
-- **[Psychology & Philosophy](./psychology-philosophy/)** — Academic papers, concepts, and philosophical explorations
+- **[Engaged Psychology](./engaged psychology/)** — Academic papers, concepts, and philosophical explorations
 - **[Myth, Spirituality & Religion](./myth-spirituality/)** — Essays on mythology, spiritual inquiry, and religious studies
 - **[Terrapsychology & Ecology](./terrapsychology-ecology/)** — Research on the psyche-place relationship and ecological consciousness
 - **[Reimagining the USA](./reimagining-usa/)** — Explorations of American identity, culture, and potential futures
