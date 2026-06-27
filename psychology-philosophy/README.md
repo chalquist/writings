@@ -1,3 +1,3 @@
-# Psychology & Philosophy
+# Engaged Psychology
 
-Academic papers, research, and philosophical explorations in depth psychology, consciousness studies, and related fields.
+Articles, papers, and reflections on psychology in the world
